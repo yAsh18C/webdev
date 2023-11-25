@@ -44,9 +44,3 @@ Building an application that can detect the presence of a mental stress or the p
 ![image](https://user-images.githubusercontent.com/64016811/199025795-61a199f2-67e2-40e9-a076-97e72ca01cd0.png)
 ![image](https://user-images.githubusercontent.com/64016811/199024885-c3c519d2-b67d-40a7-9804-ea9c7ad938af.png)
 ![image](https://user-images.githubusercontent.com/64016811/199025007-87d895ee-f812-4987-9acd-e46a88d2055e.png)
-
-
-### Made with 💙 by:
-![maker](https://user-images.githubusercontent.com/64016811/198821378-09bf5224-a537-4154-9df9-d9b29da95af7.jpg)
-
-## MAINAK CHAUDHURI
